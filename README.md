@@ -1,6 +1,6 @@
 ![Software](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)
 <h1 align="center">Hi 👋, I'm David Adeola</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="davidadeola" /> </p>
 
